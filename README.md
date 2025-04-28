@@ -31,3 +31,8 @@ Fully responsive layout
 
 # How to Use
 Simply clone or download the repository and open the index.html file in your browser.
+
+# demo:
+### Demo
+
+<video src="Google-like form.mp4" controls width="500"></video>
